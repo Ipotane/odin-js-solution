@@ -1,5 +1,4 @@
 var value = prompt('Enter a number that you would like to find the prime factors of');
-// value = Math.sqrt(value);
 var primeFac = 0;
 var i = 2;
 
